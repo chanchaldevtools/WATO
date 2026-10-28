@@ -1,0 +1,6 @@
+{
+  "name": "AutoReply WhatsApp - Automation Platform",
+  "description": "Automate your WhatsApp customer communication with intelligent auto-replies, keyword triggers, QR session sync, and live conversation analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
